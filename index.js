@@ -1,3 +1,4 @@
+//all the routes.
 const express=require("express");
 const app=express();
 app.post("/get-data",(req,res)=>{
